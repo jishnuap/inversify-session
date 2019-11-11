@@ -1,0 +1,16 @@
+{
+  "name": "inv-req-client",
+  "version": "1.0.0",
+  "description": "Client app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jishnu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "uuid": "^3.3.3"
+  }
+}
